@@ -1,2 +1,2 @@
 # qim
-QiM messenger
+QiM XMPP messenger
